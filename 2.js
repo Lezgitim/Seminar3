@@ -20,3 +20,4 @@ Number.isFinite(salaryWithTaxes)
       )}`
     )
   : console.log(`Значение задано неверно`);
+  

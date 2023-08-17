@@ -10,3 +10,4 @@
 const cube = (number) => Math.pow(number, 3);
 const digit = 5;
 console.log(`${cube(digit)}`);
+

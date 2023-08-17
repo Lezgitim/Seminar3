@@ -30,3 +30,4 @@ const maxFunc = (firstNumber, secondNumber, thirdNumber) =>
   );
 
 maxFunc(firstNumber, secondNumber, thirdNumber);
+
